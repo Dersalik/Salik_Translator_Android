@@ -14,3 +14,11 @@ The application provides the following functionalities:
 - Selecting output language
 - Entering text to translate
 - Language switching
+
+
+## Project Design 
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Dersalik/Salik_Translator_Android/master/app/bLCnKiCm4EprYYkXo0TIC36XX8Q41npoZhb1aOnqCf3NWmOm0JcJk75ntjtRsnsjadBKl7D6HHre6zadnoh1Rn07iQ0DNZAy1Tq8Tv5tnh3L4EaX8HfJlhIueZiMtrYLGVHzIS6l8rXnSMaEVnHWlM597RGPM1m_Ejooxp9tI9_S6biKcdsEM8VEYyg0aoAJS5eSiSB_9IPDL0TNjBztLtWf.png?token=GHSAT0AAAAAAB7CJNDMG663QQW2PJWEL4QEZDPWY3Q">
+
+</picture>
