@@ -19,7 +19,7 @@ import okhttp3.Response;
 
 public class TranslationService {
     private static final String LOCATION = "global";
-    private static final String SUBSCRIPTION_KEY = "9ad62dcefa8a41049859a49a9a24322f";
+    private static final String SUBSCRIPTION_KEY = "";
     private static final String API_ENDPOINT = "https://api.cognitive.microsofttranslator.com/";
 
     private final OkHttpClient client = new OkHttpClient().newBuilder().build();
