@@ -17,5 +17,9 @@ The application provides the following functionalities:
 
 
 ## Project Design 
-
+### Sequence diagram
 ![Alt Text](app/bLCnKiCm4EprYYkXo0TIC36XX8Q41npoZhb1aOnqCf3NWmOm0JcJk75ntjtRsnsjadBKl7D6HHre6zadnoh1Rn07iQ0DNZAy1Tq8Tv5tnh3L4EaX8HfJlhIueZiMtrYLGVHzIS6l8rXnSMaEVnHWlM597RGPM1m_Ejooxp9tI9_S6biKcdsEM8VEYyg0aoAJS5eSiSB_9IPDL0TNjBztLtWf.png)
+
+
+### class diagram
+![Alt Text](cdiagram.png)
